@@ -1,0 +1,298 @@
+{
+    "Pizza": [
+        {
+            "id": 2,
+            "name": "Pizza ham",
+            "price": " 9,00"
+        },
+        {
+            "id": 3,
+            "name": "Pizza Salami",
+            "price": " 9,00"
+        },
+        {
+            "id": 4,
+            "name": "Pizza Fresh mushrooms",
+            "price": " 9,00"
+        },
+        {
+            "id": 5,
+            "name": "Pizza Tuna",
+            "price": " 9,00"
+        }
+    ],
+    "Veg Pizza": [
+        {
+            "id": 43,
+            "name": "Pizza mushrooms, peppers, hot peppers",
+            "price": " 10,50"
+        }
+    ],
+    "City Pizza": [
+        {
+            "id": 48,
+            "name": "Bombay-Pizza",
+            "price": " 10,50"
+        }
+    ],
+    "Calzone, Flatbread, Tarte": [
+        {
+            "id": 56,
+            "name": "Pizza Calzone",
+            "price": " 11,00"
+        },
+        {
+            "id": 57,
+            "name": "Pizza Calzone",
+            "price": " 11,00"
+        }
+    ],
+    "American Pizzas": [
+        {
+            "id": 63,
+            "name": "American Pizza New York",
+            "price": " 12,00"
+        },
+        {
+            "id": 64,
+            "name": "American Pizza Chicago",
+            "price": " 12,00"
+        }
+    ],
+    "Noodles": [
+        {
+            "id": 100,
+            "name": "Pasta Napoli",
+            "price": " 11,50"
+        },
+        {
+            "id": 101,
+            "name": "Pasta Bolognese",
+            "price": " 11,50"
+        }
+    ],
+   
+    "Fresh Casseroles": [
+        {
+            "id": 160,
+            "name": "Vitamin bomb",
+            "price": " 12,00"
+        },
+        {
+            "id": 161,
+            "name": "Ham casserole",
+            "price": " 12,00"
+        }
+    ],
+    "Salads": [
+        {
+            "id": 180,
+            "name": "Green salad",
+            "price": " 4,00"
+        },
+        {
+            "id": 181,
+            "name": "Cucumber salad",
+            "price": " 4,50"
+        }
+    ],
+    "Grills": [
+        {
+            "id": 220,
+            "name": "Turkey schnitzel",
+            "price": " 12,50"
+        },
+        {
+            "id": 221,
+            "name": "Chicken schnitzel",
+            "price": " 12,50"
+        }
+    ],
+    "Burger & More": [
+        {
+            "id": 230,
+            "name": "Hamburgers or cheeseburgers (2 pieces)",
+            "price": " 13,90"
+        },
+        {
+            "id": 232,
+            "name": "Vegetable burger (2 pieces)",
+            "price": " 14,40"
+        }
+    ],
+    "Gyros": [
+        {
+            "id": 250,
+            "name": "Gyros plate",
+            "price": " 11,50"
+        },
+        {
+            "id": 251,
+            "name": "Gyros special",
+            "price": " 12,50"
+        }
+    ],
+    "Mexican Dishes": [
+        {
+            "id": 162,
+            "name": "Mexico-Topf",
+            "price": " 10,00"
+        }
+    ],
+    "Fingerfood": [
+        {
+            "id": 300,
+            "name": "Chicken Wings",
+            "price": " 9,00"
+        },
+        {
+            "id": 301,
+            "name": "Chicken Wings",
+            "price": " 10,00"
+        }
+    ],
+    "Swabian Dishes": [
+        {
+            "id": 320,
+            "name": "Maultaschen roasted",
+            "price": " 10,00"
+        },
+        {
+            "id": 321,
+            "name": "Maultaschen gratinated",
+            "price": " 10,50"
+        }
+    ],
+    "Baguettes": [
+        {
+            "id": 340,
+            "name": "Salami Baguette",
+            "price": " 5,00"
+        },
+        {
+            "id": 341,
+            "name": "Ham baguette",
+            "price": " 5,00"
+        }
+    ],
+    "Toasts": [
+        {
+            "id": 360,
+            "name": "Hawaii Toast",
+            "price": " 5,50"
+        },
+        {
+            "id": 361,
+            "name": "American Toast",
+            "price": " 5,50"
+        }
+    ],
+    "Indian Main Courses": [
+        {
+            "id": 370,
+            "name": "Portion Rice",
+            "price": " 5,00"
+        },
+        {
+            "id": 371,
+            "name": "Bharta",
+            "price": " 12,60"
+        }
+    ],
+    "Chinese Noodle and Rice Dishes": [
+        {
+            "id": 403,
+            "name": "Fried rice chicken",
+            "price": " 13,50"
+        },
+        {
+            "id": 404,
+            "name": "Fried rice 3 kinds of meat",
+            "price": " 13,90"
+        }
+    ],
+    "Chinese Chicken Dishes": [
+        {
+            "id": 411,
+            "name": "Chicken Chop-suey",
+            "price": " 12,90"
+        },
+        {
+            "id": 412,
+            "name": "Breaded chicken",
+            "price": " 12,90"
+        }
+    ],
+    "Chinese Pork or Beef Dishes": [
+        {
+            "id": 414,
+            "name": "Beef / Pork chop-suey",
+            "price": " 11,90"
+        },
+        {
+            "id": 415,
+            "name": "Beef / Pork mushrooms",
+            "price": " 11,90"
+        }
+    ],
+    "Chinese Duck Meat Dishes": [
+        {
+            "id": 418,
+            "name": "Chop-Suey duck meat",
+            "price": " 15,90"
+        },
+        {
+            "id": 419,
+            "name": "Duck meat",
+            "price": " 15,90"
+        }
+    ],
+    "Other Chinese Dishes": [
+        {
+            "id": 430,
+            "name": "Baked tofu Chop-suey",
+            "price": " 11,50"
+        },
+        {
+            "id": 431,
+            "name": "Baked tofu",
+            "price": " 11,50"
+        }
+    ],
+    "Desserts, Ice Cream, Chocolate, Snacks": [
+        {
+            "id": 440,
+            "name": "Baked banana",
+            "price": " 5,90"
+        },
+        {
+            "id": 443,
+            "name": "Tiramisu",
+            "price": " 5,50"
+        }
+    ],
+    "Soft Drinks": [
+        {
+            "id": 474,
+            "name": "Red Bull (Dose) 0,25l",
+            "price": " 2,90"
+        },
+        {
+            "id": 470,
+            "name": "Mineral water 0,7l",
+            "price": " 1,90"
+        }
+    ],
+    "Alcoholic Drinks": [
+        {
+            "id": 480,
+            "name": "Stuttgart Hofbr\u00e4u Pilsner 0,5l",
+            "price": " 2,50"
+        },
+        {
+            "id": 481,
+            "name": "Beck's 0,5l",
+            "price": " 2,50"
+        }
+    ]
+}
