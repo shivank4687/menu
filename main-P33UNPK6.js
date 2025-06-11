@@ -72,7 +72,7 @@ import{$ as Kr,$a as P,A as Ze,Aa as g,Ab as co,B as Qe,Ba as I,Bb as ce,C as en
     padding-left: 33px;
        }
         .receipt-container .bottom .totals {
-          margin-top: 10px;
+          margin-top: -4px;
           font-weight: bolder;
        }
         .receipt-container .bottom .totals .line {
@@ -87,7 +87,7 @@ import{$ as Kr,$a as P,A as Ze,Aa as g,Ab as co,B as Qe,Ba as I,Bb as ce,C as en
        }
         .receipt-container .bottom .tse-block {
           font-family: "Courier New", monospace;
-          margin-top: 12px;
+          margin-top: -4px;
           font-size: 11px;
        }
         .receipt-container .bottom .tse-block p {
