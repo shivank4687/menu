@@ -1717,6 +1717,168 @@
       "lp": { "price": "" }
     }
   ],
-  "Getränke": [],
-  "Desserts, Eis Schokolade, Knabberzeug": []
+  "Getränke": [
+    {
+      "id": 470,
+      "name": "Mineralwasser/Sprudelwasser",
+      "quantity": "0,7l",
+      "price": "1,90"
+    },
+    {
+      "id": 471,
+      "name": "Coca-Cola/ Light / Fanta/ Sprite/ Mezzo",
+      "quantity": "1,0l",
+      "price": "3,65"
+    },
+    {
+      "id": 472,
+      "name": "Coca-Cola/ Light / Fanta/ Sprite/ Mezzo",
+      "quantity": "0,33l",
+      "price": "2,00"
+    },
+    {
+      "id": 473,
+      "name": "Orangensaft / Apfelsaft",
+      "quantity": "1,0l",
+      "price": "4,50"
+    },
+    {
+      "id": 474,
+      "name": "Red Bull (Dose) mit Pfand",
+      "quantity": "0,25l",
+      "price": "4,50"
+    },
+    {
+      "id": 621,
+      "name": "Eistee (Lipton) Pfirsich",
+      "quantity": "1,5l",
+      "price": "4,50"
+    },
+    {
+      "id": 622,
+      "name": "Eistee (Lipton) Zitrone",
+      "quantity": "1,5l",
+      "price": "4,50"
+    },
+    {
+      "id": 623,
+      "name": "Mangosaft",
+      "quantity": "1,5l",
+      "price": "4,50"
+    },
+    {
+      "id": 480,
+      "name": "Stuttgarter Hofbräu Pilsner",
+      "quantity": "0,5l",
+      "price": "2,50"
+    },
+    {
+      "id": 481,
+      "name": "Beck's",
+      "quantity": "0,5l",
+      "price": "2,50"
+    },
+    {
+      "id": 482,
+      "name": "Sanwald Kristallweizen",
+      "quantity": "0,5l",
+      "price": "2,50"
+    },
+    {
+      "id": 483,
+      "name": "Sanwald Hefeweizen",
+      "quantity": "0,5l",
+      "price": "2,50"
+    },
+    {
+      "id": 491,
+      "name": "Lambrusco (rot, lieblich)",
+      "quantity": "0,75l",
+      "price": "8,00"
+    },
+    {
+      "id": 492,
+      "name": "Bardolino (rot, trocken)",
+      "quantity": "0,75l",
+      "price": "8,00"
+    },
+    {
+      "id": 493,
+      "name": "Chíanti (rot, trocken)",
+      "quantity": "0,75l",
+      "price": "8,00"
+    },
+    {
+      "id": 495,
+      "name": "Frascati (weiß, trocken)",
+      "quantity": "0,75l",
+      "price": "8,00"
+    },
+    {
+      "id": 497,
+      "name": "Trollinger (rot) Würt. Q.b.A.",
+      "quantity": "1,0l",
+      "price": "10,50"
+    },
+    {
+      "id": 498,
+      "name": "Riesling (weiß) Württ. Q.b.A.",
+      "quantity": "1,0l",
+      "price": "10,50"
+    },
+    {
+      "id": 499,
+      "name": "Faber Sekt/Asti Spumante",
+      "quantity": "0,7l",
+      "price": "8,00"
+    },
+    {
+      "id": 501,
+      "name": "Wodka Gobatchow",
+      "quantity": "0,7l",
+      "price": "16,00"
+    }
+  ],
+  "Desserts, Eis Schokolade, Knabberzeug": [
+    {
+      "id": 440,
+      "name": "Gebackene Banane mit Kokosraspeln, Mandeln und Honig",
+      "price": "5,50"
+    },
+    {
+      "id": 443,
+      "name": "Tiramisu",
+      "price": "5,50"
+    },
+    {
+      "id": 444,
+      "name": "G8IKO Zirotie gefüllt mit Zitroneneis",
+      "price": "5,50"
+    },
+    {
+      "id": 449,
+      "name": "Spagheti-Eis",
+      "price": "10,50"
+    },
+    {
+      "id": 451,
+      "name": "Ben and Jerry's, verschiedene Sorten",
+      "price": "3,50"
+    },
+    {
+      "id": 453,
+      "name": "Milka Schokolade Vollmilch",
+      "price": "3,50"
+    },
+    {
+      "id": 454,
+      "name": "Chips",
+      "price": "4,00"
+    },
+    {
+      "id": 455,
+      "name": "Kokoseis",
+      "price": "5,50"
+    }
+  ]
 }
