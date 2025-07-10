@@ -35,7 +35,12 @@
         "Familie": "16,50",
         "Party": "20,00"
       },
-      "lp": { "klien": "8,00", "normal": "9,50", "Familie": "", "Party": "" }
+      "lp": {
+        "klien": "8,00",
+        "normal": "9,50",
+        "Familie": "22,00",
+        "Party": "17,50"
+      }
     },
     {
       "id": 2,
@@ -628,9 +633,7 @@
         "Familie": "21,50",
         "Party": "27,50"
       }
-    }
-  ],
-  "Vegetarische Pizzen": [
+    },
     {
       "id": 43,
       "name": "Champignons, Paprika, Peperoni, Zwiebeln, Oliven, Ananas, Artischocken (Auf Wunsch Knoblauch und scharf )",
@@ -742,9 +745,7 @@
         "Familie": "22,50",
         "Party": "28,50"
       }
-    }
-  ],
-  "Vegetarische Pizzen1": [
+    },
     {
       "id": 48,
       "name": "Bombay-Pizza Hähnchenbrustfilet, Ananas, Currysauce Indische Pizza Hähnchenbrustfilet",
@@ -962,12 +963,6 @@
   ],
   "Nudeln (Hackfleisch aus Rindh)": [
     {
-      "id": 1,
-      "name": "Variations- Wahlen sie ihre Lieblings-Nudelsorte: A+Spaghetti \" B+Rigatoni \" C+Tortellini D+Gnocc'i \" E+Penne . F+Tagliatella",
-      "ap": { "price": "" },
-      "lp": { "price": "9,50" }
-    },
-    {
       "id": 2,
       "name": "Napoli Würzige Tomatensauce",
       "ap": { "price": "8,00" },
@@ -1127,12 +1122,6 @@
     }
   ],
   "Salate Wenn Sie nur Salat bestellen, bekommen Sie Pizzabrot dazu. Extra-Sauce  1,- Euro": [
-    {
-      "id": 1,
-      "name": "Dressing-Auswahl: B+ Essig, C + French, D + Joghurt, E + Balsamico",
-      "ap": { "price": "" },
-      "lp": { "price": "" }
-    },
     {
       "id": 2,
       "name": "Grüner Salat mit Gurken",
@@ -1473,32 +1462,44 @@
       "lp": { "price": "13,00" }
     }
   ],
-  "Schwäbische Gerichte": [
+  "Toasts (Doppeldecker, 2 Stúck)": [
     {
-      "id": 1,
+      "id": 360,
       "name": "Hawaii-Toast: Putenschinken, Ananas, mit Käse überbacken24",
       "ap": { "price": "5,00" },
       "lp": { "price": "6,00" }
     },
     {
-      "id": 1,
+      "id": 361,
       "name": "American Toast: Putenschinken, Rinder- 5,00 6.00 salami, mit Käse überbacken",
       "ap": { "price": "5,00" },
       "lp": { "price": "6,00" }
     },
     {
-      "id": 1,
+      "id": 363,
       "name": "City-Toast: Putenschinken, Rindersa 5,00 6,00 lami, Zwiebeln, Salat, Mayonnaise, mit Käse überbacken",
       "ap": { "price": "5,00" },
       "lp": { "price": "6,00" }
     }
   ],
-  "Toasts (Doppeldecker, 2 Stúck)": [
+  "Schwäbische Gerichte": [
     {
-      "id": 1,
-      "name": "",
-      "ap": { "price": "" },
-      "lp": { "price": "" }
+      "id": 320,
+      "name": "Maultaschen gerQstet mit Zwiebeln und Ej",
+      "ap": { "price": "9,00" },
+      "lp": { "price": "11,00" }
+    },
+    {
+      "id": 321,
+      "name": "Maultaschen überbacken mit Käse und Tomatensauce",
+      "ap": { "price": "10,00" },
+      "lp": { "price": "12,00" }
+    },
+    {
+      "id": 322,
+      "name": "Käsespätzle mit Speck und Ei",
+      "ap": { "price": "10,00" },
+      "lp": { "price": "12,00" }
     }
   ],
   "Indische Hauptgerichte alle mit Basmatireis oder Pizzabrot -außer Biryani": [
