@@ -1240,31 +1240,31 @@
   ],
   "Rösti (Mit Käse überbacken)": [
     {
-      "id": 23,
+      "id": 140,
       "name": "Rösti Chau Fleur: Zarter Blumenkohi mit Sauce Hollandaise",
       "ap": { "price": "10,0" },
       "lp": { "price": "11,0" }
     },
     {
-      "id": 20,
+      "id": 141,
       "name": "Rösti Putenschinken: Putenschinken mit Rahmsoße (auf Wunsch Champignons)",
       "ap": { "price": "10,0" },
       "lp": { "price": "11,0" }
     },
     {
-      "id": 20,
+      "id": 142,
       "name": "Rösti Hähnchen: Hähnchenfleisch mit Sauce Hollandaise",
       "ap": { "price": "10,0" },
       "lp": { "price": "11,0" }
     },
     {
-      "id": 20,
+      "id": 143,
       "name": "Rösti Spinat: Blattspinat mit Rahmsauce",
       "ap": { "price": "10,0" },
       "lp": { "price": "11,0" }
     },
     {
-      "id": 20,
+      "id": 144,
       "name": "Rösti Broccoli: Broccoli mit Rahmsauce",
       "ap": { "price": "10,0" },
       "lp": { "price": "11,0" }
