@@ -31,13 +31,13 @@
       "name": "Käse",
       "ap": {
         "klein": "7,00",
-        "normal": "8,50",
+        "Normal": "8,50",
         "Familie": "16,50",
         "Party": "20,00"
       },
       "lp": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "22,00",
         "Party": "17,50"
       }
@@ -47,13 +47,13 @@
       "name": "Putenschinken",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -63,13 +63,13 @@
       "name": "Rindersalami",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -79,13 +79,13 @@
       "name": "Frische Champignons ag Thunfisch agd",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -95,13 +95,13 @@
       "name": "Hackfleisch",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -111,13 +111,13 @@
       "name": "Frische Paprika (rot)",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -127,13 +127,13 @@
       "name": "25 Putenschinken, Zwiebel",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -143,13 +143,13 @@
       "name": "Peperoni (mild)",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -159,13 +159,13 @@
       "name": "Zwiebeln",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -175,13 +175,13 @@
       "name": "Sardellen",
       "ap": {
         "klein": "8,00",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,50",
         "Party": "22,00"
       },
       "lp": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,50",
         "Party": "24,00"
       }
@@ -191,13 +191,13 @@
       "name": "Sucuk",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -207,13 +207,13 @@
       "name": "Sucuk., Oliven",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -223,13 +223,13 @@
       "name": "Putenschinken, Champignons",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -239,13 +239,13 @@
       "name": "HawaiiPutenschinken, Ananas, Curry",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -255,13 +255,13 @@
       "name": "Putenschinken, Peperoni",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -271,13 +271,13 @@
       "name": "Rindersalami, Putenschinken2",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -287,13 +287,13 @@
       "name": "Rindersalami, Champignons",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -303,13 +303,13 @@
       "name": "Rindersalami, Peperoni",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -319,13 +319,13 @@
       "name": "Rindersalami, Sardellen",
       "ap": {
         "klein": "8,50",
-        "normal": "9,50",
+        "Normal": "9,50",
         "Familie": "17,00",
         "Party": "22,50"
       },
       "lp": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,50",
         "Party": "25,50"
       }
@@ -335,13 +335,13 @@
       "name": "Thunfisch, Zwiebeln",
       "ap": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,00",
         "Party": "23,50"
       },
       "lp": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,50",
         "Party": "26,50"
       }
@@ -351,13 +351,13 @@
       "name": "Rindersalami, Putenschinken, Champignons1.",
       "ap": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,00",
         "Party": "23,50"
       },
       "lp": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,50",
         "Party": "26,50"
       }
@@ -367,13 +367,13 @@
       "name": "Rindersalami, Champignons, Hackfleisch",
       "ap": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,00",
         "Party": "23,50"
       },
       "lp": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,50",
         "Party": "26,50"
       }
@@ -383,13 +383,13 @@
       "name": "Rindersalami,Putenschinken, Hackfleisch",
       "ap": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,00",
         "Party": "23,50"
       },
       "lp": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,50",
         "Party": "26,50"
       }
@@ -399,13 +399,13 @@
       "name": "Rindersalami, Paprika, Peperoni(scharf)1",
       "ap": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,00",
         "Party": "23,50"
       },
       "lp": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,50",
         "Party": "26,50"
       }
@@ -415,13 +415,13 @@
       "name": "Putenschinken, Spargel, Ei",
       "ap": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,00",
         "Party": "23,50"
       },
       "lp": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,50",
         "Party": "26,50"
       }
@@ -431,13 +431,13 @@
       "name": "Putenschinken, Zwiebel,Ej",
       "ap": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,00",
         "Party": "23,50"
       },
       "lp": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,50",
         "Party": "26,50"
       }
@@ -447,13 +447,13 @@
       "name": "Putenschinken, Champignons,Artischocken",
       "ap": {
         "klein": "9,00",
-        "normal": "10,50",
+        "Normal": "10,50",
         "Familie": "18,00",
         "Party": "23,50"
       },
       "lp": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,50",
         "Party": "26,50"
       }
@@ -463,13 +463,13 @@
       "name": "Nudel-Pizza Bolognese mit Penne oder Spaghetti",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -479,13 +479,13 @@
       "name": "Vier Jahreszeiten Rindersalami, Putenschinken, Champignons, Paprika, E",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -495,13 +495,13 @@
       "name": "Rindersalami, Putenschinken, Champignons, Zwiebeln",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -511,13 +511,13 @@
       "name": "Rindersalami,Putenschinken, Champignons, Speck, Knoblauch",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -527,13 +527,13 @@
       "name": "Rindersalami Putenschinken, Champignons, Peperoni, Oliven",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -543,13 +543,13 @@
       "name": "Diavolo Rindersalami, Putenschinken, Paprika, Peperoni (Scharf )",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -559,13 +559,13 @@
       "name": "Putenschinken, Mozzarella, Rucola, Tomaten",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -575,13 +575,13 @@
       "name": "Frutti di Mare",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -591,13 +591,13 @@
       "name": "Half scharfe italienische Rindersalami, Zwiebeln, Artischocken",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -607,13 +607,13 @@
       "name": "Chef scharfe italienische Rindersalami, Zwiebeln,Paprika, Knoblauch",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -623,13 +623,13 @@
       "name": "Marinara Sardellen,Oliven, Kapern",
       "ap": {
         "klein": "9,00",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "18,50",
         "Party": "24,50"
       },
       "lp": {
         "klein": "10,50",
-        "normal": "12,00",
+        "Normal": "12,00",
         "Familie": "21,50",
         "Party": "27,50"
       }
@@ -639,13 +639,13 @@
       "name": "Champignons, Paprika, Peperoni, Zwiebeln, Oliven, Ananas, Artischocken (Auf Wunsch Knoblauch und scharf )",
       "ap": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,00",
         "Party": "25,00"
       },
       "lp": {
         "klein": "11,00",
-        "normal": "12,50",
+        "Normal": "12,50",
         "Familie": "22,50",
         "Party": "28,50"
       }
@@ -655,13 +655,13 @@
       "name": "Mais, Knoblauch, Zwiebeln, Peperoni, Ananas",
       "ap": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,00",
         "Party": "25,00"
       },
       "lp": {
         "klein": "11,00",
-        "normal": "12,50",
+        "Normal": "12,50",
         "Familie": "22,50",
         "Party": "28,50"
       }
@@ -671,13 +671,13 @@
       "name": "Tomaten, Mozzarella, Oliven, Schafskäse, Peperoni",
       "ap": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,00",
         "Party": "25,00"
       },
       "lp": {
         "klein": "11,00",
-        "normal": "12,50",
+        "Normal": "12,50",
         "Familie": "22,50",
         "Party": "28,50"
       }
@@ -687,13 +687,13 @@
       "name": "Tomaten, Spinat, Mozzarella",
       "ap": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,00",
         "Party": "25,00"
       },
       "lp": {
         "klein": "11,00",
-        "normal": "12,50",
+        "Normal": "12,50",
         "Familie": "22,50",
         "Party": "28,50"
       }
@@ -703,13 +703,13 @@
       "name": "Quattro Formaggi Mozzarella, Gorgonzola, Parmesan, Gouda",
       "ap": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,00",
         "Party": "25,00"
       },
       "lp": {
         "klein": "11,00",
-        "normal": "12,50",
+        "Normal": "12,50",
         "Familie": "22,50",
         "Party": "28,50"
       }
@@ -719,13 +719,13 @@
       "name": "Broccoli, fr. Paprika, fr. Champignons, Artischocken, Zwiebeln",
       "ap": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,00",
         "Party": "25,00"
       },
       "lp": {
         "klein": "11,00",
-        "normal": "12,50",
+        "Normal": "12,50",
         "Familie": "22,50",
         "Party": "28,50"
       }
@@ -735,13 +735,13 @@
       "name": "Mozzarella, fr. Tomaten, fr. Basilikum",
       "ap": {
         "klein": "9,50",
-        "normal": "11,00",
+        "Normal": "11,00",
         "Familie": "19,00",
         "Party": "25,00"
       },
       "lp": {
         "klein": "11,00",
-        "normal": "12,50",
+        "Normal": "12,50",
         "Familie": "22,50",
         "Party": "28,50"
       }
@@ -751,13 +751,13 @@
       "name": "Bombay-Pizza Hähnchenbrustfilet, Ananas, Currysauce Indische Pizza Hähnchenbrustfilet",
       "ap": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,00",
         "Party": "26,00"
       },
       "lp": {
         "klein": "11,50",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "23,50",
         "Party": "29,50"
       }
@@ -767,13 +767,13 @@
       "name": "Knoblauch, Zwiebeln (auf Wunsch scharf)",
       "ap": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,00",
         "Party": "26,00"
       },
       "lp": {
         "klein": "11,50",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "23,50",
         "Party": "29,50"
       }
@@ -783,13 +783,13 @@
       "name": "Chicken Spezial Hähnchenbrustfilet, Mais, Paprika, Zwiebeln, Champignons",
       "ap": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,00",
         "Party": "26,00"
       },
       "lp": {
         "klein": "11,50",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "23,50",
         "Party": "29,50"
       }
@@ -799,13 +799,13 @@
       "name": "BBQ-Pizza mit BBQ-Sauce",
       "ap": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,00",
         "Party": "26,00"
       },
       "lp": {
         "klein": "11,50",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "23,50",
         "Party": "29,50"
       }
@@ -815,13 +815,13 @@
       "name": "Döner-Pizza Dönerfleisch, Zwiebeln, Peperoni, Tomaten, Mozzarella (scharf)",
       "ap": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,00",
         "Party": "26,00"
       },
       "lp": {
         "klein": "11,50",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "23,50",
         "Party": "29,50"
       }
@@ -831,13 +831,13 @@
       "name": "Türkische Pizza Sucuk, Zwiebeln, Champignons, Paprika, Oliven (auf Wunsch scharf)",
       "ap": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,00",
         "Party": "26,00"
       },
       "lp": {
         "klein": "11,50",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "23,50",
         "Party": "29,50"
       }
@@ -847,13 +847,13 @@
       "name": "Gyros-Pizza Gyrosfleisch, Zwiebeln, Schafskäse, Oliven",
       "ap": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,00",
         "Party": "26,00"
       },
       "lp": {
         "klein": "11,50",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "23,50",
         "Party": "29,50"
       }
@@ -863,13 +863,13 @@
       "name": "Rucola Pamaschinken, Rucola, Parmesan",
       "ap": {
         "klein": "10,00",
-        "normal": "11,50",
+        "Normal": "11,50",
         "Familie": "20,00",
         "Party": "26,00"
       },
       "lp": {
         "klein": "11,50",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "23,50",
         "Party": "29,50"
       }
@@ -879,20 +879,20 @@
     {
       "id": 56,
       "name": "Calzone Rindersalami, Putenschinken, Champignons, Hackfleisch, Paprika",
-      "ap": { "klein": "10,00", "normal": "12,00" },
-      "lp": { "klein": "12,00", "normal": "13,50" }
+      "ap": { "klein": "10,00", "Normal": "12,00" },
+      "lp": { "klein": "12,00", "Normal": "13,50" }
     },
     {
       "id": 57,
       "name": "Calzone Vegetarisch Champignons, Zwiebeln, Paprika, Ananas",
-      "ap": { "klein": "10,00", "normal": "12,00" },
-      "lp": { "klein": "12,00", "normal": "13,50" }
+      "ap": { "klein": "10,00", "Normal": "12,00" },
+      "lp": { "klein": "12,00", "Normal": "13,50" }
     },
     {
       "id": 61,
       "name": "Fladenbrot",
-      "ap": { "klein": "10,00", "normal": "12,00" },
-      "lp": { "klein": "12,00", "normal": "13,50" }
+      "ap": { "klein": "10,00", "Normal": "12,00" },
+      "lp": { "klein": "12,00", "Normal": "13,50" }
     }
   ],
   "Amerikanische Pizzen (Alle mit Käserandfüllung)": [
@@ -901,13 +901,13 @@
       "name": "New York Rindersalami, Putenschinken, Champignons, Peperoni, AP 11,00 13,00 25,00 30,00 Zwiebeln (auf Wunsch scharf)",
       "ap": {
         "klein": "11,00",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "25,00",
         "Party": "30,00"
       },
       "lp": {
         "klein": "12,50",
-        "normal": "15,00",
+        "Normal": "15,00",
         "Familie": "30,00",
         "Party": "36,00"
       }
@@ -917,13 +917,13 @@
       "name": "Chicago BrOccoli, Paprika, Tomaten, Erbsen, Spinat (auf Wunsch scharf)",
       "ap": {
         "klein": "11,00",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "25,00",
         "Party": "30,00"
       },
       "lp": {
         "klein": "12,50",
-        "normal": "15,00",
+        "Normal": "15,00",
         "Familie": "30,00",
         "Party": "36,00"
       }
@@ -933,13 +933,13 @@
       "name": "Texana Rindersalami, Mais, Speck, Peperoni, Paprika (sehr scharf)",
       "ap": {
         "klein": "11,00",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "25,00",
         "Party": "30,00"
       },
       "lp": {
         "klein": "12,50",
-        "normal": "15,00",
+        "Normal": "15,00",
         "Familie": "30,00",
         "Party": "36,00"
       }
@@ -949,13 +949,13 @@
       "name": "Alaska Knoblauch, Mozzarella, Käse, Ei, Sahnesoße (ohne Tomatensauce)",
       "ap": {
         "klein": "11,00",
-        "normal": "13,00",
+        "Normal": "13,00",
         "Familie": "25,00",
         "Party": "30,00"
       },
       "lp": {
         "klein": "12,50",
-        "normal": "15,00",
+        "Normal": "15,00",
         "Familie": "30,00",
         "Party": "36,00"
       }
@@ -1390,8 +1390,8 @@
     {
       "id": 58,
       "name": "Tortilla mit Speck, Bohnen, Mais, Alopinos, Käse, Knoblauch gefüllt, mit Salat ohne Tomatensauce",
-      "ap": { "klein": "10,00", "normal": "11,00" },
-      "lp": { "klein": "11,00", "normal": "12,50" }
+      "ap": { "klein": "10,00", "Normal": "11,00" },
+      "lp": { "klein": "11,00", "Normal": "12,50" }
     },
     {
       "id": 162,
