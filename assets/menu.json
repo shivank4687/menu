@@ -898,7 +898,7 @@
   "Amerikanische Pizzen (Alle mit Käserandfüllung)": [
     {
       "id": 63,
-      "name": "New York Rindersalami, Putenschinken, Champignons, Peperoni, AP 11,00 13,00 25,00 30,00 Zwiebeln (auf Wunsch scharf)",
+      "name": "New York Rindersalami, Putenschinken, Champignons, Peperoni, Zwiebeln (auf Wunsch scharf)",
       "ap": {
         "klein": "11,00",
         "Normal": "13,00",
@@ -1918,6 +1918,39 @@
       "lp": { "price": "5,50" }
     }
   ],
+  "burgers & more": [
+    {
+      "id": 233,
+      "name": "fischburger 2 stück mit pommes",
+      "ap": { "price": 10.5 },
+      "lp": { "price": 12.5 }
+    },
+    {
+      "id": 234,
+      "name": "chickenburger 2 stück mit pommes",
+      "ap": { "price": 12.5 },
+      "lp": { "price": 14.0 }
+    },
+    {
+      "id": 235,
+      "name": "bbq burger 2 stück mit pommes",
+      "ap": { "price": 10.5 },
+      "lp": { "price": 12.5 }
+    },
+    {
+      "id": 237,
+      "name": "xxl cheeseburger 1 stück mit pommes",
+      "ap": { "price": 7.5 },
+      "lp": { "price": 9.0 }
+    },
+    {
+      "id": 239,
+      "name": "xxl american burger 2 stück mit pommes",
+      "ap": { "price": 14.0 },
+      "lp": { "price": 16.9 }
+    }
+  ],
+
   "ADDONS": [
     {
       "id": 432,
