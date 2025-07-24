@@ -1918,7 +1918,19 @@
       "lp": { "price": "5,50" }
     }
   ],
-  "burgers & more": [
+  "Burgers & More": [
+    {
+      "id": 230,
+      "name": "Hamburger oder Cheeseburger 2 Stück mit Pommes af9jkm",
+      "ap": { "price": "10,50" },
+      "lp": { "price": "12,50" }
+    },
+    {
+      "id": 232,
+      "name": "Gemüseburger 2 Stück mit Pommes",
+      "ap": { "price": "10,50" },
+      "lp": { "price": "12,50" }
+    },
     {
       "id": 233,
       "name": "fischburger 2 stück mit pommes",
